@@ -33,9 +33,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="CONSULTAR"
+            android:background="@color/colorPrimary"
             android:textStyle="bold" />
 
         <TextView
+            android:layout_marginTop="30dp"
             android:id="@+id/TVNombre"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

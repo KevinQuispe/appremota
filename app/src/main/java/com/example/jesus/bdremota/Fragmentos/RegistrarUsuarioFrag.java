@@ -98,12 +98,11 @@ public class RegistrarUsuarioFrag extends Fragment implements Response.Listener<
             public void onClick(View view) {
                 cargarWebService();
             }
-
-
         });
 
         return view;
     }
+
 
     private void cargarWebService() {
         progreso= new ProgressDialog(getContext());
