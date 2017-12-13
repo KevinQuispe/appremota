@@ -1,5 +1,4 @@
 package com.example.jesus.bdremota.Fragmentos;
-
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.net.Uri;
