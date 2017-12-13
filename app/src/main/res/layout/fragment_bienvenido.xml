@@ -4,8 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="@dimen/fab_margin"
-    tools:context="com.example.jesus.bdremota.Fragmentos.BienvenidoFrag"
-    android:weightSum="1">
+    tools:context="com.example.jesus.bdremota.Fragmentos.BienvenidoFrag">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
@@ -18,8 +17,8 @@
     <ImageView
         android:padding="@dimen/fab_margin"
         android:layout_width="match_parent"
-        android:layout_height="204dp"
-        android:src="@drawable/mvp2"
-        android:layout_weight="0.44" />
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_home_black_24dp"
+        />
 
 </LinearLayout>
